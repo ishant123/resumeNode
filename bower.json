@@ -1,0 +1,20 @@
+{
+  "name": "nodeapp",
+  "description": "My first full app",
+  "main": "app.js",
+  "authors": [
+    "Ishant"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
